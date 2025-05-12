@@ -1,21 +1,19 @@
 # Title
 
-This is an example file with default selections.
+Dashboard for CodeWorkout to Review Student Progress
 
-## Install
+## Requirements
 
-```
-```
+Python 3.10+
+Dependencies: pandas, seaborn, matplotlib.pyplot
+pip installation
 
 ## Usage
 
-```
-```
-
-## Contributing
-
-PRs accepted.
+Must contain specific CSV file within the same directory as the scripts
+Simply complie the script(s)
 
 ## License
 
-MIT © Richard McRichface
+This is a student project submitted for research at UNC Charlotte.  
+All rights reserved. Do not reuse without permission.
